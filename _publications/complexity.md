@@ -1,5 +1,5 @@
 ---
-title: "On the Complexity of Nonsmooth Automatic Differentiation"
+title: "On the complexity of nonsmooth automatic differentiation"
 collection: publications
 permalink: /publication/complexity
 date: 2023-02-06
