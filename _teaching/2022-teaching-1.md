@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant of mathematics practice"
+title: "Mathematics practice"
 collection: teaching
 type: "L1"
 permalink: 
