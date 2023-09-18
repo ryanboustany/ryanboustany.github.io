@@ -1,12 +1,12 @@
 ---
-title: "On the complexity of nonsmooth automatic differentiation" 
+title: "On the Complexity of Nonsmooth Automatic Differentiation"
 collection: publications
 permalink: /publication/complexity
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-02-06
 venue: 'ICLR'
 paperurl: 'https://arxiv.org/abs/2206.01730'
 ---
-*(Jérôme Bolte, Ryan Boustany, Edouard Pauwels, Béatrice Pesquet-Popescu)*  
-<!-- [Download paper here](https://arxiv.org/abs/2206.01730.pdr) -->
 
+**Authors**: Jérôme Bolte, Ryan Boustany, Edouard Pauwels, Béatrice Pesquet-Popescu  
+**Conference**: [ICLR](https://iclr.cc/), Kigali, 2023  
+**Paper**: [ArXiv](https://arxiv.org/abs/2206.01730)
