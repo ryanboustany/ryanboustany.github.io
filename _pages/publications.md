@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+###### Publications
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- [*On the complexity of nonsmooth automatic differentiation*](https://arxiv.org/abs/2206.01730)
+    <span style="float:right;">
+        <a href="http://ryanboustany.github.io/uq-na"> <i class="fas fa-fw fa-folder-open"></i>  </a>
+    </span>  
+  
+*ICLR*, 2023  
+[arXiv](https://arxiv.org/abs/2206.01730)
