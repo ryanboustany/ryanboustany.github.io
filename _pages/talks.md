@@ -7,15 +7,14 @@ author_profile: true
 
 ## Presentations
 
-### *On the complexity of nonsmooth automatic differentiation* ([slides](https://github.com/ryanboustany/ryanboustany.github.io/blob/c9e3be326be872d331b0febcbca6a24714c33160/files/Support_presentation_ICLR_2023.pdf))
-- ICLR Spotlight Session: May 4th, 2023 (Online)
-- MADS Workshop TSE: June 10th, 2022 (Toulouse, France)
-
+### [On the Complexity of Nonsmooth Automatic Differentiation](https://github.com/ryanboustany/ryanboustany.github.io/blob/c9e3be326be872d331b0febcbca6a24714c33160/files/Support_presentation_ICLR_2023.pdf)
+- ICLR: May 4, 2023 (Online)
+- MADS Workshop, TSE: June 10, 2022 (Toulouse)
 
 ---
 
-## Poster sessions
+## Posters
 
-### *On the complexity of nonsmooth automatic differentiation* ([poster](https://github.com/ryanboustany/ryanboustany.github.io/files/Poster_nonsmooth_AD.pdf))
-- [GdR MOA](https://gdrmoa.math.cnrs.fr): October 10th, 2022 (Nice, France)
-- PhD ANITI Workshop: November 21th, 2022 (Grenoble, France)
+### [On the Complexity of Nonsmooth Automatic Differentiation](https://github.com/ryanboustany/ryanboustany.github.io/files/Poster_nonsmooth_AD.pdf)
+- GdR MOA: Oct 10, 2022 (Nice)
+- PhD ANITI Workshop: Nov 21, 2022 (Grenoble)
