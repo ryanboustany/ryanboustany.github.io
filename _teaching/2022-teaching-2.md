@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant of Software for Data science"
+title: "Software for Data science"
 collection: teaching
 type: "M1 Econometrics, Statistics"
 permalink: 
