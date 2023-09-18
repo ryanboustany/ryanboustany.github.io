@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Talks and Presentations"
+title: "Talks and Posters"
 permalink: /talks/
 author_profile: true
 ---
 
-## Presentations
+## Talks
 
 ### On the Complexity of Nonsmooth Automatic Differentiation
 - ICLR: May 4, 2023 (Online)
