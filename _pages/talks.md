@@ -5,11 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Talks and Presentations
+## Presentations
 
-## Academic Presentations
-
-### On the complexity of nonsmooth automatic differentiation
+### *On the complexity of nonsmooth automatic differentiation*
 - **Authors**: J. Bolte, R. Boustany, E. Pauwels, B. Pesquet-Popescu
 - **Publication**: [ICLR Spotlight Session - Top 25% Paper](https://iclr.cc/virtual/2023/poster/11867)
 - **Presentation dates**:
