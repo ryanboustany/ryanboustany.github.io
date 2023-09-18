@@ -84,10 +84,10 @@ author:
   avatar           : "ryan.png"
   #bio              : "Your biography for the left-hand sidebar"
   location         : "Paris, France"
-  employer         :
+  employer         : "Toulouse School of Economics & Thales LAS France"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pZn2PdAAAAAJ"
-  email            :
+  email            : "ryan.boustany_at_ut-capitole.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
