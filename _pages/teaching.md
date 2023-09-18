@@ -9,17 +9,20 @@ Teaching assistant at [Toulouse School of Economics](https://www.tse-fr.eu/fr) a
 
 ## Courses
 
-- **Convex Optimization for ML**
-  - M1 D3S & MED, TSE
-  - Starts: Sep 1, 2023
+### Convex Optimization for ML
+- **Level**: M1 D3S & MED
+- **Institution**: TSE
+- **Years**: 2023
 
-- **Python for Data Science**
-  - M1 Econometrics, TSE
-  - Started: Sep 1, 2022
+### Python for Data Science
+- **Level**: M1 Econometrics, Statistics
+- **Institution**: TSE
+- **Years**: 2022, 2023
 
-- **Mathematics Practice**
-  - L1, Université Toulouse Capitole
-  - Started: Sep 1, 2022
+### Mathematics Practice
+- **Level**: L1
+- **Institution**: Université Toulouse Capitole
+- **Years**: 2022
 
 
 
