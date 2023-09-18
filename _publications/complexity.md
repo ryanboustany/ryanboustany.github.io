@@ -8,5 +8,5 @@ paperurl: 'https://arxiv.org/abs/2206.01730'
 ---
 
 **Authors**: Jérôme Bolte, Ryan Boustany, Edouard Pauwels, Béatrice Pesquet-Popescu  
-**Conference**: [ICLR](https://iclr.cc/), Kigali, 2023  
+**Conference**: [ICLR 2023 - Top 25% Paper](https://iclr.cc/)  
 **Paper**: [ArXiv](https://arxiv.org/abs/2206.01730)
