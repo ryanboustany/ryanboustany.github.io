@@ -9,6 +9,6 @@ redirect_from:
 ---
 I am a second-year PhD candidate jointly affiliated with [TSE](https://www.tse-fr.eu/fr), [ANITI](https://aniti.univ-toulouse.fr), and Thales LAS France. 
 
-My advisors are [Jérôme Bolte](https://scholar.google.fr/citations?user=Re1SrTkAAAAJ) and [Edouard Pauwels](https://www.irit.fr/~Edouard.Pauwels/) from TSE, alongside with [Béatrice Pesquet-Popescu](https://scholar.google.fr/citations?hl=fr&user=afgNSP8AAAAJ) from Thales. 
+I am supervized by [Jérôme Bolte](https://scholar.google.fr/citations?user=Re1SrTkAAAAJ) and [Edouard Pauwels](https://www.irit.fr/~Edouard.Pauwels/) from TSE, alongside with [Béatrice Pesquet-Popescu](https://scholar.google.fr/citations?hl=fr&user=afgNSP8AAAAJ) from Thales. 
 
 My research is mainly focused on the sensitivity and robustness of neural networks, through nonconvex optimization, nonsmooth automatic differentiation, first-order methods and their machine learning applications.
