@@ -9,4 +9,4 @@ header:
 
 - *On the complexity of nonsmooth automatic differentiation *, July 26th, 2023.  
 GdR MOA 2022, Nice, France  
-[poster]()
+[poster](http://ryanboustany.github.io/files/Poster_nonsmooth_AD.pdf)
