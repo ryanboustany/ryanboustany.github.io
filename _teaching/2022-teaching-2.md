@@ -1,5 +1,5 @@
 ---
-title: "Software for Data science"
+title: "Python for Data science"
 collection: teaching
 type: "M1 Econometrics, Statistics"
 permalink: 
