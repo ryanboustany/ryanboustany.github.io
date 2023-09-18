@@ -6,8 +6,3 @@ author_profile: true
 ---
 
 Teaching assistant at [Toulouse School of Economics](https://www.tse-fr.eu/fr) and [Université Toulouse Capitole](https://www.ut-capitole.fr).
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
