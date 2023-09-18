@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ryan Boustany"
 title_separator          : "-"
 name                     : &name "Ryan Boustany"
-description              : &description "PhD student at TSE, at ANITI, and at Thales LAS"
+description              : &description "PhD student at TSE, at ANITI, and at Thales LAS France"
 url                      : https://ryanboustany.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ryanboustany/ryanboustany.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "RyanBoustany_"
+  username               : &twitter 
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ryan Boustany"
   avatar           : "ryan.png"
-  bio              : "PhD student at TSE, at ANITI, and at Thales LAS"
+  bio              : "PhD student at TSE, at ANITI, and at Thales LAS France"
   location         : "Paris, France"
   #employer         : 
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pZn2PdAAAAAJ"
-  email            : "ryan.boustany_at_ut-capitole.fr"
+  email            : "ryan.boustany@ut-capitole.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "RyanBoustany_"
+  #twitter          : "RyanBoustany_"
   vine             :
   weibo            :
   xing             :
