@@ -9,13 +9,20 @@ Teaching assistant at [Toulouse School of Economics](https://www.tse-fr.eu/fr) a
 
 ## Courses
 
+### PyTorch tutorial for Deep Learning  
+- **Level**: M2
+- **Institution**: TSE
+- **Years**: 2023
+- **Materials**: 
+- **Correction**:
+
 ### Convex Optimization for ML
-- **Level**: M1 D3S & MED
+- **Level**: M1
 - **Institution**: TSE
 - **Years**: 2023
 
 ### Python for Data Science
-- **Level**: M1 Econometrics, Statistics
+- **Level**: M1
 - **Institution**: TSE
 - **Years**: 2022, 2023
 
