@@ -14,7 +14,7 @@ Teaching assistant at [Toulouse School of Economics](https://www.tse-fr.eu/fr) a
 - **Institution**: TSE
 - **Years**: 2023
 - **Materials**: 
-- **Correction**:
+- **Corrections**:
 
 ### Convex Optimization for ML
 - **Level**: M1
