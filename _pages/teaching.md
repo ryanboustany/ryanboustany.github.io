@@ -13,7 +13,7 @@ Teaching assistant at [Toulouse School of Economics](https://www.tse-fr.eu/fr) a
 - **Level**: M2
 - **Institution**: TSE
 - **Years**: 2023
-- **Materials**: [Tutorial 1](https://github.com/ryanboustany/ryanboustany.github.io/blob/master/files/tutorial1.ipynb) - [Tutorial 2](https://github.com/ryanboustany/ryanboustany.github.io/blob/master/files/tutorial2.ipynb)
+- **Materials**: [Tutorial 1](https://github.com/ryanboustany/ryanboustany.github.io/blob/master/files/tutorial1.ipynb)
 - **Corrections**:
 
 ### Convex Optimization for ML
