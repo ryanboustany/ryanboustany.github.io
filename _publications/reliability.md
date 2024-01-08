@@ -8,4 +8,4 @@ paperurl: 'https://hal.science/hal-04372374'
 ---
 
 **Author**: Ryan Boustany 
-**Paper**: [ArXiv](https://hal.science/hal-04372374)
+**Paper**: [ArXiv](https://arxiv.org/abs/2401.02736)
