@@ -7,6 +7,6 @@ date: 2024-01-01
 paperurl: 'https://arxiv.org/abs/2401.02736'
 ---
 
-**Author**: Ryan Boustany 
+**Author**: Ryan Boustany   
 **Conference**: [TMLR](https://jmlr.org/tmlr/)  
 **Paper**: [ArXiv](https://arxiv.org/abs/2401.02736)
