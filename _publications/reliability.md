@@ -8,5 +8,5 @@ paperurl: 'https://arxiv.org/abs/2401.02736'
 ---
 
 **Author**: Ryan Boustany   
-**Conference**: [TMLR](https://jmlr.org/tmlr/)  
+**Journal**: [TMLR](https://jmlr.org/tmlr/)  
 **Paper**: [ArXiv](https://arxiv.org/abs/2401.02736)
