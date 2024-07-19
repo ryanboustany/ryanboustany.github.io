@@ -2,7 +2,7 @@
 title: "On the numerical reliability of nonsmooth autodiff: a MaxPool case study"
 collection: publications
 permalink: /publication/reliability
-venue: 'Preprint'
+venue: 'TMLR'
 date: 2024-01-01
 paperurl: 'https://arxiv.org/abs/2401.02736'
 ---
