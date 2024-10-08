@@ -2,7 +2,7 @@
 title: "A second-order-like optimizer with adaptive gradient scaling for deep learning"
 collection: publications
 permalink: /publication/innaprop
-venue: 'TMLR'
+venue: 'Preprint'
 date: 2024-09-30
 paperurl: 'https://hal.science/hal-04724894'
 ---
