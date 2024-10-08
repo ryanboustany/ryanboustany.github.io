@@ -8,4 +8,5 @@ paperurl: 'https://hal.science/hal-04724894'
 ---
 
 **Author**: Jérôme Bolte, Ryan Boustany, Edouard Pauwels, Andrei Purica 
-**Paper**: [HAL](https://arxiv.org/abs/2401.02736)
+
+**Paper**: [HAL](https://hal.science/hal-04724894)
