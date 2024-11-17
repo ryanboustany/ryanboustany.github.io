@@ -12,7 +12,7 @@ Teaching assistant at [Toulouse School of Economics](https://www.tse-fr.eu/fr) a
 ### PyTorch tutorial for Deep Learning  
 - **Level**: M2
 - **Institution**: TSE
-- **Years**: 2023
+- **Years**: 2023, 2024
 - **Materials**: [Tutorial 1](https://github.com/ryanboustany/ryanboustany.github.io/blob/master/files/tutorial1.ipynb), [Tutorial 2](https://github.com/ryanboustany/ryanboustany.github.io/blob/master/files/tutorial2.ipynb), [Tutorial 3](https://github.com/ryanboustany/ryanboustany.github.io/blob/master/files/tutorial3.ipynb)
 - **Corrections**:
 - **Pytorch project**: 
