@@ -15,6 +15,7 @@ author_profile: true
 ### A second-order-like optimizer with adaptive gradient scaling for deep learning
 - JCAD : November 2024 (Bordeaux) ([Download presentation](https://jcad2024.sciencesconf.org/data/PRESENTATION_Improvement_into_machine_learning_BOUSTANY_RYAN.pdf))
 - Thales PhD Day (Palaiseau)
+  
 ---
 
 ## Posters
